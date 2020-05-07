@@ -17,4 +17,22 @@
 }
 .container-foto{
   display: inline-block;
+  position:relative;
+}
+
+.sales{
+  position: absolute;
+  top:0;
+  right:0;
+  padding:10px;
+  background-color: green;
+
+}
+
+.heart{
+  width:100%;
+  text-align: center;
+  position: absolute;
+  bottom:0;
+  padding-bottom: 10px;
 }
