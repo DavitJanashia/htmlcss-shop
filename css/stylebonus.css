@@ -23,7 +23,6 @@
   position:relative;
   width:300px;
   height: 372px;
-  background-image: url('../img/scedapd1.jpg');
 }
 
 .sales{
@@ -91,4 +90,12 @@
 
 .container-foto.ipad{
   background-image: url('../img/schedaipad1.png');
+}
+
+.container-foto.iphone{
+  background-image: url('../img/schedaiphone1.png');
+}
+
+.container-foto.macbook{
+  background-image: url('../img/schedamacbook1.png');
 }
