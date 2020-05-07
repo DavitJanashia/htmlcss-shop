@@ -6,14 +6,16 @@
 }
 
 .container{
-  width:1200px;
+  width:1000px;
   margin:auto;
-  background-color: white;
+  /* background-color: lightgrey; */
+  padding-top:5px;
 }
 
 .container-row{
-  width: 995px;
+  width: 910px;
   margin:auto;
+  margin-bottom:30px;
 }
 .container-foto{
   display: inline-block;
@@ -25,9 +27,15 @@
   top:0;
   right:0;
   width:40px;
-  background-color: green;
   text-align: center;
+}
 
+.sales.green{
+  background-color: green;
+}
+
+.sales.red{
+  background-color: red;
 }
 
 .heart{
